@@ -27,11 +27,14 @@ Right now I am learning tools and ways to develop new projects, it is better tha
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
-### <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" width="2%"> I would like to learn soon
+### <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="2%"> I would like to learn soon
 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 
-### <img src = "https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/balloon_1f388.gif" width="2%">You can find in me in the web 
+---
 
+### <img src = "https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/balloon_1f388.gif" width="2%"> You can find in me in the web 
+
+<p><a href="https://twitter.com/Alex_Arqui"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/alexarqui"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://medium.com/@arqui9897"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/arqui9897"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 ![Profile views](https://gpvc.arturio.dev/Arqui9897)
