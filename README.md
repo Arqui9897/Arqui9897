@@ -33,12 +33,5 @@ Right now I am learning tools and ways to develop new projects, it is better tha
 
 ### <img src = "https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/balloon_1f388.gif" width="2%">You can find in me in the web 
 
-<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-<br/>
 
 ![Profile views](https://gpvc.arturio.dev/Arqui9897)
